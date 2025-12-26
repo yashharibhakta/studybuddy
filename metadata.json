@@ -1,0 +1,5 @@
+{
+  "name": "studybuddy",
+  "description": "A production-ready MVP for students to analyze lectures, generate flashcards, summaries, and quizzes using Gemini models.",
+  "requestFramePermissions": []
+}
